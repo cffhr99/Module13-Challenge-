@@ -7,6 +7,6 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 ### (2) Add Major Earthquakes
 ![major](https://github.com/cffhr99/Module13-Challenge-/blob/main/demo/Major_EQ.PNG?raw=true)
 ### (3) Add Third Layer
-The two pictures above have showed that the third layer, dark mode, was successfully added to the base map.
+The two pictures above have showed that the third layer, dark mode, was successfully added to the base map.  
 Finally, here is the screenshot of all jobs done.
 ![final](https://github.com/cffhr99/Module13-Challenge-/blob/main/demo/overview.PNG?raw=true)
